@@ -32,6 +32,7 @@ li a{
 /*Set painting image to the left of page*/
 .Painting{
 	float:left;
+	align-text:left;
 }
 /*set class paragraph to the right and a font size of 20px*/
 .paragraph{
