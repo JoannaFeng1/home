@@ -32,7 +32,7 @@ li a{
 /*Set piano image to the left of page*/
 .Piano{
 	float:left;
-	align-items:left;
+	text-align:left;
 }
 /*set class paragraph to the right and a font size of 20px*/
 .paragraph{
