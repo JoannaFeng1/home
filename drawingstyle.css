@@ -31,10 +31,12 @@ li a{
 }
 /*Set painting image to the left of page*/
 .Painting{
-	float:left;	
+	float:left;
+	text-align:left;
 }
 /*set class paragraph to the right and a font size of 20px*/
 .paragraph{
 	margin-left:550px;
 	font-size:20px;
+	text-align:right;
 }
