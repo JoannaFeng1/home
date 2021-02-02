@@ -1,0 +1,60 @@
+/*align the class Title and set the font and font size*/
+.Title{
+	text-align:center;
+	font-family:Papyrus;
+	font-size:50px;	
+	
+}
+/*set the background of the html tag*/
+html{
+	background-color:#f0fffa;
+}
+/*Set the list style type and margins and background color of the ul tag*/
+ul{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color:white;
+}
+/*set the font family and move the li tags to the left of the page*/
+li {
+  float: left;
+  font-family:Papyrus
+}
+/*Move all a tags inside li tags to center and display a block with black text*/
+li a{
+  display: block;
+  color:black;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+/*Set class Name to center of page*/
+.Name{
+	text-align:center;
+}
+/*set class description to font size 20px and make a margin on the left and right*/
+.description{
+	font-size:20px;
+	margin-left:100px;
+	margin-right:100px;
+}
+/*set class beach with a margin*/
+.beach{
+	margin-left:420px;
+	margin-right:300px;
+}
+/*Set class Thanks to the center of page with font size 20px*/
+.Thanks{
+	text-align:center;
+	font-size:20px;
+}
+/*set class Topic to inherit the color black*/
+.Topic{
+	color:inherit;
+}
+/*set class top to color black*/
+.top{
+	color:black;
+}

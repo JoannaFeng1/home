@@ -1,0 +1,53 @@
+/*align the class Title and set the font and font size*/
+.Title{
+	text-align:center;
+	font-family:Papyrus;
+	font-size:50px;
+}
+/*set the background of the html tag*/
+html{
+	background-color:#f0fffa;
+}
+/*Set the list style type and margins and background color of the ul tag*/
+ul{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color:white;
+}
+/*set the font family and move the li tags to the left of the page*/
+li {
+  float: left;
+  font-family:Papyrus
+}
+/*Move all a tags inside li tags to center and display a block with black text*/
+li a{
+  display: block;
+  color:black;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+/*Set piano image to the left of page*/
+.Piano{
+	float:left;
+}
+/*set class paragraph to the right and a font size of 20px*/
+.paragraph{
+	margin-left:550px;
+	font-size:20px;
+}
+/*set all the links to color black*/
+.piece1{
+	color:black;
+}
+.piece2{
+	color:black;
+}
+.piece3{
+	color:black;
+}
+.piece4{
+	color:black;
+}
